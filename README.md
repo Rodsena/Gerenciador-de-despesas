@@ -2,7 +2,8 @@
 a basic project for management your expenses
 
 @Java 
-@Spring Boot , MVC, JPA
+
+#Spring Boot , MVC, JPA
 
 
 #Rodrigo Sena
